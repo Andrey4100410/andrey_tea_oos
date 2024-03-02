@@ -1,0 +1,22 @@
+{
+  "name": "andrey_tea_oos",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andrey4100410/andrey_tea_oos.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrey4100410/andrey_tea_oos/issues"
+  },
+  "homepage": "https://github.com/Andrey4100410/andrey_tea_oos#readme"
+}
